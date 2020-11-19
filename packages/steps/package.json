@@ -1,5 +1,5 @@
 {
-  "name": "mc-steps",
+  "name": "mcc-steps",
   "version": "0.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "9564fded909edbd77d638d47db9bcc38f572434f",
+  "gitHead": "8ac07827281f3ffaf4b75034d0a48cb4adefdfee",
   "dependencies": {
     "lodash": "2"
   }
